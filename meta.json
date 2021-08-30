@@ -14,7 +14,8 @@
         "lang":  {
             "code": "fo",
             "wikidata": "Q25258"
-        }
+        },
+        "curlflags": "-A EPS/fo"
     },
     "agent": "every-politican-scrapers/faroes-ministers"
 }
