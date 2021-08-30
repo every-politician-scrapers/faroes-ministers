@@ -1,5 +1,9 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
-Q853551,Bárður á Steig Nielsen,Bárður á Steig Nielsen,male,1972-04-16T00:00:00Z,11,,Q21034786,Føroya løgmaður,Q853551-e844ab23-40a6-3dfb-8348-1f2f1c48301d
-Q331931,Jóannes Eidesgaard,Jóannes Eidesgaard,male,1951-04-19T00:00:00Z,11,,Q21034789,Føroya fíggjarmálaráðharri,Q331931-4f4a04b9-4d68-4fa9-2ba2-7befbb8584da
-Q331786,Kaj Leo Holm Johannesen,Kaj Leo Holm Johannesen,male,1964-08-28T00:00:00Z,11,,Q21034925,,Q331786-d545575e-4e70-ac1c-4563-767078dd5f09
-Q466349,Kristina Háfoss,Kristina Háfoss,female,1975-06-26T00:00:00Z,11,,Q21034789,Føroya fíggjarmálaráðharri,Q466349-dff1f58f-497d-3feb-5d29-f801ea787961
+Q853551,Bárður á Steig Nielsen,Bárður á Steig Nielsen,male,1972-04-16T00:00:00Z,11,https://www.foroyalandsstyri.fo/fo/landsstyrid/landsstyrisfolk/,Q21034786,løgmaður,Q853551-e844ab23-40a6-3dfb-8348-1f2f1c48301d
+Q16964316,Elsebeth Mercedis Gunnleygsdóttur,Elsebeth Mercedis Gunnleygsdóttur,female,1963-10-26T00:00:00Z,11,,Q23304381,landsstýrikvinna í almannamálum,Q16964316-1AF06B6D-66CF-448F-9EC9-B52DB42DE394
+Q754881,Helgi Abrahamsen,Helgi Abrahamsen,male,1966-11-24T00:00:00Z,11,,Q108328759,landsstýrismaður í vinnu- og umhvørvismálum,Q754881-A75CECD1-9A8A-40D0-AA26-0FEFB343D75C
+Q730980,Jacob Vestergaard,Jacob Vestergaard,male,1961-04-07T00:00:00Z,11,,Q108328710,landsstýrismaður í fiskivinnumálum,Q730980-2B642D4B-F194-4815-BA19-10A1422F9421
+Q254129,Jenis av Rana,Jenis av Rana,male,1953-01-07T00:00:00Z,11,,Q108328701,landsstýrismaður í uttanríkis- og mentamálum,Q254129-173FDC48-C128-4CC1-A60D-999C8A37D144
+Q903946,Jørgen Niclasen,Jørgen Niclasen,male,1969-01-17T00:00:00Z,11,,Q21034789,landsstýrismaður í fíggjarmálum,Q903946-C5FE3B97-0475-4D7E-8F9A-DE7E45DE02F2
+Q903946,Jørgen Niclasen,Jørgen Niclasen,male,1969-01-17T00:00:00Z,11,,Q108326606,varaløgmaður,Q903946-AD46CBB4-7493-48FB-9F47-EFFF9ABA493F
+Q331786,Kaj Leo Holm Johannesen,Kaj Leo Holm Johannesen,male,1964-08-28T00:00:00Z,11,,Q21034925,landsstýrismaður í heilsumálum,Q331786-d545575e-4e70-ac1c-4563-767078dd5f09
