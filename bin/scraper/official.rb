@@ -10,7 +10,17 @@ class MemberList
       noko.text.tidy
     end
 
+    POSITION = {
+      'varaløgmaður, landsstýrismaður í fíggjarmálum' => [ 'varaløgmaður', 'landsstýrismaður í fíggjarmálum' ]
+    }
+
     def position
+      POSITION.fetch(raw_position, raw_position)
+    end
+
+    private
+
+    def raw_position
       noko.xpath('following-sibling::text()').text.tidy
     end
   end
