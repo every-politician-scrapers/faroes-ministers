@@ -197,8 +197,108 @@
           }
         },
         {
-          "[object Object]": {
-            "text": "term_start1\t\t= 26 September 2008"
+          "name": {
+            "text": "Kaj Leo Johannesen"
+          },
+          "image": {
+            "text": "Plenum motet (1).jpg"
+          },
+          "imagesize": {
+            "text": "280px"
+          },
+          "office1": {
+            "text": "Prime Minister of the Faroe Islands",
+            "links": [
+              {
+                "text": "Prime Minister of the Faroe Islands",
+                "type": "internal",
+                "page": "List of Prime Ministers of the Faroe Islands"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "26 September 2008"
+          },
+          "term_end1": {
+            "text": "15 September 2015"
+          },
+          "monarch1": {
+            "text": "Margrethe II",
+            "links": [
+              {
+                "text": "Margrethe II",
+                "type": "internal",
+                "page": "Margrethe II of Denmark"
+              }
+            ]
+          },
+          "deputy1": {
+            "text": "Jørgen Niclasen Jacob Vestergaard Aksel V. Johannesen Annika Olsen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jørgen Niclasen"
+              },
+              {
+                "type": "internal",
+                "page": "Jacob Vestergaard"
+              },
+              {
+                "type": "internal",
+                "page": "Aksel V. Johannesen"
+              },
+              {
+                "type": "internal",
+                "page": "Annika Olsen"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Jóannes Eidesgaard",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jóannes Eidesgaard"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Aksel V. Johannesen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Aksel V. Johannesen"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "August 28, 1964"
+          },
+          "birth_place": {
+            "text": "Tórshavn, Faroe Islands",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tórshavn"
+              },
+              {
+                "type": "internal",
+                "page": "Faroe Islands"
+              }
+            ]
+          },
+          "party": {
+            "text": "Union Party",
+            "links": [
+              {
+                "text": "Union Party",
+                "type": "internal",
+                "page": "Union Party (Faroe Islands)"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Jórun Bærendsen"
           }
         }
       ],
