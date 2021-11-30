@@ -321,59 +321,6 @@
           }
         }
       ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "template": "commons category"
-        },
-        {
-          "list": [
-            "fo"
-          ],
-          "template": "in lang"
-        },
-        {
-          "list": [
-            "fo"
-          ],
-          "template": "in lang"
-        },
-        {
-          "template": "faroes-politician-stub"
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Jørgen Niclasen at the Prime Minister's Office",
-            "links": [
-              {
-                "text": "Jørgen Niclasen",
-                "type": "external",
-                "site": "https://web.archive.org/web/20120227110458/http://www.tinganes.fo/Default.aspx?ID=5998"
-              }
-            ]
-          },
-          {
-            "text": "Jørgen Niclasen at the Ministry of Foreign Affairs",
-            "links": [
-              {
-                "text": "Jørgen Niclasen",
-                "type": "external",
-                "site": "http://www.mfa.fo/Default.aspx?ID=6597"
-              }
-            ]
-          }
-        ]
-      ]
     }
   ]
 }

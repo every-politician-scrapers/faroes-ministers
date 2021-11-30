@@ -8,7 +8,7 @@
     "People's Party (Faroe Islands) politicians",
     "Faroese women in politics",
     "People from Klaksvík",
-    "21st-century women politicians"
+    "21st-century Danish women politicians"
   ],
   "sections": [
     {
@@ -113,111 +113,6 @@
             "text": "3",
             "number": 3
           }
-        }
-      ]
-    },
-    {
-      "title": "Career",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Gunnleygsdóttur worked for two years (1983-85) as an assistant at Postverk Føroya."
-            },
-            {
-              "text": "She then began training with the police."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Politics",
-      "depth": 1,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Gunnleygsdóttur has been sitting in the town council of her home town of Klaksvík since 2009."
-            },
-            {
-              "text": "She also sat in various committees."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "At the end of October 2011, she was elected to Løgting with 344 personal voices."
-            },
-            {
-              "text": "She was chairman of the Judiciary Committee and was also a member of the Committee on Welfare."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "In the elections to the Løgting on 1 September 2015 she was reelected with 371 personal votes."
-            },
-            {
-              "text": "After Annika Olsen's resignation, she is the only female deputy not only in her faction, but in the entire opposition.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Annika Olsen"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
-      ]
-    },
-    {
-      "title": "Personal life",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Gunnleygsdóttur, who is daughter of Ellinor Maria and Gunnleyður Jakobsen is married to Finn Hansen."
-            },
-            {
-              "text": "The couple have three children."
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
         }
       ]
     }
