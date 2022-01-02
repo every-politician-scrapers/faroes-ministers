@@ -186,52 +186,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.state.gov/secretary-blinkens-travel-to-denmark-iceland-and-greenland/",
-          "title": "Secretary Blinken’s Travel to Denmark, Iceland, and Greenland",
-          "date": "14 May 2021",
-          "website": "state.gov",
-          "publisher": "U.S. Department of State",
-          "access-date": "17 May 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://laknargundadalur.fo/Jenis-av-Rana",
-          "title": "Jenis av Rana",
-          "language": "fo",
-          "access-date": "1 September 2015",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.dv.is/frettir/2010/9/7/fordomafulli-faereyski-thingmadurinn/",
-          "title": "Fordómafulli færeyski þingmaðurinn",
-          "last": "Jónsson",
-          "first": "Sigurður Mikael",
-          "date": "7 September 2010",
-          "publisher": "dv.is",
-          "language": "is",
-          "access-date": "1 September 2015",
-          "archive-url": "https://web.archive.org/web/20140714133648/http://www.dv.is/frettir/2010/9/7/fordomafulli-faereyski-thingmadurinn/",
-          "archive-date": "14 July 2014",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.pinknews.co.uk/2010/09/07/faroe-islands-mp-refuses-to-dine-with-icelands-gay-prime-minister-and-her-partner/",
-          "title": "Faroe Islands MP refuses to dine with Iceland’s gay prime minister and her partner",
-          "last": "Brocklebank",
-          "first": "Christopher",
-          "date": "7 September 2010",
-          "publisher": "PinkNews",
-          "access-date": "1 September 2015",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
