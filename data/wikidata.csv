@@ -1,9 +1,9 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,psid
-Q16964316,Elsebeth Mercedis Gunnleygsdóttur,Elsebeth Mercedis Gunnleygsdóttur,female,1963-10-26,11,https://www.foroyalandsstyri.fo/fo/landsstyrid/landsstyrisfolk/,2021-08-30,Q23304381,landsstýrikvinna í almannamálum,Q16964316-1AF06B6D-66CF-448F-9EC9-B52DB42DE394
-Q17106707,Magnus Rasmussen,Magnus Rasmussen,male,1962-11-28,11,,,Q108328759,landsstýrismaður í vinnu- og umhvørvismálum,Q17106707-e6eb905b-4a43-51f6-3239-b280b6d3dfeb
-Q254129,Jenis av Rana,Jenis av Rana,male,1953-01-07,11,https://www.foroyalandsstyri.fo/fo/landsstyrid/landsstyrisfolk/,2021-08-30,Q108328701,landsstýrismaður í uttanríkis- og mentamálum,Q254129-173FDC48-C128-4CC1-A60D-999C8A37D144
-Q331786,Kaj Leo Holm Johannesen,Kaj Leo Holm Johannesen,male,1964-08-28,11,https://www.foroyalandsstyri.fo/fo/landsstyrid/landsstyrisfolk/,2021-08-30,Q21034925,landsstýrismaður í heilsumálum,Q331786-d545575e-4e70-ac1c-4563-767078dd5f09
-Q730980,Jacob Vestergaard,Jacob Vestergaard,male,1961-04-07,11,https://www.foroyalandsstyri.fo/fo/landsstyrid/landsstyrisfolk/,2021-08-30,Q108328710,landsstýrismaður í fiskivinnumálum,Q730980-2B642D4B-F194-4815-BA19-10A1422F9421
-Q853551,Bárður á Steig Nielsen,Bárður á Steig Nielsen,male,1972-04-16,11,https://www.foroyalandsstyri.fo/fo/landsstyrid/landsstyrisfolk/,2021-08-30,Q1000921,løgmaður,Q853551-e844ab23-40a6-3dfb-8348-1f2f1c48301d
-Q903946,Jørgen Niclasen,Jørgen Niclasen,male,1969-01-17,11,https://www.foroyalandsstyri.fo/fo/landsstyrid/landsstyrisfolk/,2021-08-30,Q108326606,varaløgmaður,Q903946-AD46CBB4-7493-48FB-9F47-EFFF9ABA493F
-Q903946,Jørgen Niclasen,Jørgen Niclasen,male,1969-01-17,11,https://www.foroyalandsstyri.fo/fo/landsstyrid/landsstyrisfolk/,2021-08-30,Q21034789,landsstýrismaður í fíggjarmálum,Q903946-C5FE3B97-0475-4D7E-8F9A-DE7E45DE02F2
+wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,start,psid
+Q110472679,Árni Skaale,Árni Skaale,male,1966-01-01,9,,,Q108328710,landsstýrismaður í fiskivinnumálum,2022-01-06,Q110472679-206ADC3C-C711-442C-9BE7-C6677FC2112A
+Q110472709,Sólvit Emilsson Nolsø,Sólvit Emilsson Nolsø,male,,,,,Q23304381,landsstýrikvinna í almannamálum,2022-01-06,Q110472709-1B8A54CD-1AC9-4987-9565-B8EF1BE9CA80
+Q17106707,Magnus Rasmussen,Magnus Rasmussen,male,1962-11-28,11,,,Q108328759,landsstýrismaður í vinnu- og umhvørvismálum,2021-08-19,Q17106707-e6eb905b-4a43-51f6-3239-b280b6d3dfeb
+Q254129,Jenis av Rana,Jenis av Rana,male,1953-01-07,11,https://www.foroyalandsstyri.fo/fo/landsstyrid/landsstyrisfolk/,2021-08-30,Q108328701,landsstýrismaður í uttanríkis- og mentamálum,2019-09-16,Q254129-173FDC48-C128-4CC1-A60D-999C8A37D144
+Q331786,Kaj Leo Holm Johannesen,Kaj Leo Holm Johannesen,male,1964-08-28,11,https://www.foroyalandsstyri.fo/fo/landsstyrid/landsstyrisfolk/,2021-08-30,Q21034925,landsstýrismaður í heilsumálum,2019-09-16,Q331786-d545575e-4e70-ac1c-4563-767078dd5f09
+Q853551,Bárður á Steig Nielsen,Bárður á Steig Nielsen,male,1972-04-16,11,https://www.foroyalandsstyri.fo/fo/landsstyrid/landsstyrisfolk/,2021-08-30,Q1000921,løgmaður,2019-09-16,Q853551-e844ab23-40a6-3dfb-8348-1f2f1c48301d
+Q903946,Jørgen Niclasen,Jørgen Niclasen,male,1969-01-17,11,https://www.foroyalandsstyri.fo/fo/landsstyrid/landsstyrisfolk/,2021-08-30,Q108326606,varaløgmaður,2019-09-16,Q903946-AD46CBB4-7493-48FB-9F47-EFFF9ABA493F
+Q903946,Jørgen Niclasen,Jørgen Niclasen,male,1969-01-17,11,https://www.foroyalandsstyri.fo/fo/landsstyrid/landsstyrisfolk/,2021-08-30,Q21034789,landsstýrismaður í fíggjarmálum,2019-09-16,Q903946-C5FE3B97-0475-4D7E-8F9A-DE7E45DE02F2
