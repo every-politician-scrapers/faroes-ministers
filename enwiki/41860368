@@ -210,6 +210,15 @@
                 "page": "People's Party (Faroe Islands)"
               }
             ]
+          },
+          "relatives": {
+            "text": "Victor Danielsen (grandfather)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Victor Danielsen"
+              }
+            ]
           }
         }
       ]
