@@ -1,326 +1,36 @@
 {
-  "title": "Jørgen Niclasen",
-  "pageID": 17375491,
-  "categories": [
-    "Living people",
-    "1969 births",
-    "Members of the Løgting",
-    "Foreign Ministers of the Faroe Islands",
-    "Finance Ministers of the Faroe Islands",
-    "Fisheries Ministers of the Faroe Islands",
-    "Deputy Prime Ministers of the Faroe Islands",
-    "People's Party (Faroe Islands) politicians",
-    "21st-century Danish politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Jørgen Niclasen (born 17 January 1969 in Sørvágur) is a Faroese politician.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Sørvágur"
-                },
-                {
-                  "text": "Faroese",
-                  "type": "internal",
-                  "page": "Faroe Islands"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Jørgen Niclasen"
-                ]
-              }
-            },
-            {
-              "text": "He has been the leader of the Faroese People's Party (Fólkaflokkurin) since 2007.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Fólkaflokkurin"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "On 2 October 2008, he was officially appointed Kaj Leo Johannesen's Deputy Prime Minister, which he was until the 2011 Faroese parliamentary election.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Kaj Leo Johannesen"
-                },
-                {
-                  "text": "Deputy Prime Minister",
-                  "type": "internal",
-                  "page": "List of Deputy Prime Ministers of the Faroe Islands"
-                },
-                {
-                  "text": "2011 Faroese parliamentary election",
-                  "type": "internal",
-                  "page": "2011 Faroese parliamentary election"
-                }
-              ]
-            },
-            {
-              "text": "He was reelected and became the Minister of Finance in the Cabinet of Kaj Leo Johannesen II.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Cabinet of Kaj Leo Johannesen II"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "year": "1969",
-          "month": "01",
-          "day": "17",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "image": {
-            "text": "Jorgen Niclasen (2).jpg"
-          },
-          "office": {
-            "text": "Minister of Finance",
-            "links": [
-              {
-                "text": "Minister of Finance",
-                "type": "internal",
-                "page": "Finance Ministers of the Faroe Islands"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "14 November 2011"
-          },
-          "term_end": {
-            "text": "15 September 2015"
-          },
-          "primeminister": {
-            "text": "Kaj Leo Johannesen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kaj Leo Johannesen"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Aksel V. Johannesen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Aksel V. Johannesen"
-              }
-            ]
-          },
-          "successor": {
-            "text": "Kristina Háfoss",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kristina Háfoss"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister of Foreign Affairs"
-          },
-          "term_start2": {
-            "text": "26 September 2008"
-          },
-          "term_end2": {
-            "text": "19 January 2011"
-          },
-          "primeminister2": {
-            "text": "Kaj Leo Johannesen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kaj Leo Johannesen"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Høgni Hoydal",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Høgni Hoydal"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Jacob Vestergaard",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacob Vestergaard"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Deputy Prime Minister of the Faroe Islands",
-            "links": [
-              {
-                "text": "Deputy Prime Minister of the Faroe Islands",
-                "type": "internal",
-                "page": "List of Deputy Prime Ministers of the Faroe Islands"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Bárður á Steig Nielsen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bárður á Steig Nielsen"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "16 September 2019"
-          },
-          "predecessor3": {
-            "text": "Høgni Hoydal",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Høgni Hoydal"
-              }
-            ]
-          },
-          "primeminister4": {
-            "text": "Kaj Leo Johannesen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kaj Leo Johannesen"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "26 September 2008"
-          },
-          "term_end4": {
-            "text": "19 January 2011"
-          },
-          "predecessor4": {
-            "text": "Høgni Hoydal",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Høgni Hoydal"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Jacob Vestergaard",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacob Vestergaard"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Leader of the People’s Party",
-            "links": [
-              {
-                "text": "People’s Party",
-                "type": "internal",
-                "page": "Fólkaflokkurin"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "2 August 2007"
-          },
-          "predecessor5": {
-            "text": "Anfinn Kallsberg",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anfinn Kallsberg"
-              }
-            ]
-          },
-          "office6": {
-            "text": "Minister of Fisheries",
-            "links": [
-              {
-                "text": "Minister of Fisheries",
-                "type": "internal",
-                "page": "List of Ministers of Fisheries of the Faroe Islands"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "14 December 1998"
-          },
-          "term_end6": {
-            "text": "4 January 2003"
-          },
-          "primeminister7": {
-            "text": "Anfinn Kallsberg",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anfinn Kallsberg"
-              }
-            ]
-          },
-          "predecessor7": {
-            "text": "John Petersen"
-          },
-          "successor7": {
-            "text": "Jacob Vestergaard",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacob Vestergaard"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "January 17, 1969"
-          },
-          "birth_place": {
-            "text": "Sørvágur, Faroe Islands",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sørvágur"
-              }
-            ]
-          },
-          "party": {
-            "text": "Fólkaflokkurin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Fólkaflokkurin"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "image": "Jorgen Niclasen (2).jpg",
+  "office": "Minister of Finance",
+  "term_start": "14 November 2011",
+  "term_end": "15 September 2015",
+  "primeminister": "Kaj Leo Johannesen",
+  "predecessor": "Aksel V. Johannesen",
+  "successor": "Kristina Háfoss",
+  "office2": "Minister of Foreign Affairs",
+  "term_start2": "26 September 2008",
+  "term_end2": "19 January 2011",
+  "primeminister2": "Kaj Leo Johannesen",
+  "predecessor2": "Høgni Hoydal",
+  "successor2": "Jacob Vestergaard",
+  "office3": "Deputy Prime Minister of the Faroe Islands",
+  "primeminister3": "Bárður á Steig Nielsen",
+  "term_start3": "16 September 2019",
+  "predecessor3": "Høgni Hoydal",
+  "primeminister4": "Kaj Leo Johannesen",
+  "term_start4": "26 September 2008",
+  "term_end4": "19 January 2011",
+  "predecessor4": "Høgni Hoydal",
+  "successor4": "Jacob Vestergaard",
+  "office5": "Leader of the People’s Party",
+  "term_start5": "2 August 2007",
+  "predecessor5": "Anfinn Kallsberg",
+  "office6": "Minister of Fisheries",
+  "term_start6": "14 December 1998",
+  "term_end6": "4 January 2003",
+  "primeminister7": "Anfinn Kallsberg",
+  "predecessor7": "John Petersen",
+  "successor7": "Jacob Vestergaard",
+  "birth_date": "January 17, 1969",
+  "birth_place": "Sørvágur, Faroe Islands",
+  "party": "Fólkaflokkurin"
 }
