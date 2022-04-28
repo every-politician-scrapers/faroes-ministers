@@ -6,13 +6,14 @@ require 'pry'
 
 class MemberList
   class Member
+    POSITION = {
+      'varaløgmaður, landsstýrismaður í fíggjarmálum' => ['varaløgmaður', 'landsstýrismaður í fíggjarmálum'],
+      'landsstýrismaður í fíggjarmálum, varaløgmaður' => ['varaløgmaður', 'landsstýrismaður í fíggjarmálum'],
+    }.freeze
+
     def name
       noko.text.tidy
     end
-
-    POSITION = {
-      'varaløgmaður, landsstýrismaður í fíggjarmálum' => [ 'varaløgmaður', 'landsstýrismaður í fíggjarmálum' ]
-    }
 
     def position
       POSITION.fetch(raw_position, raw_position)
@@ -32,5 +33,5 @@ class MemberList
   end
 end
 
-file = Pathname.new 'html/official.html'
+file = Pathname.new 'official.html'
 puts EveryPoliticianScraper::FileData.new(file).csv

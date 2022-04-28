@@ -1,0 +1,21 @@
+{
+    "jurisdiction": {
+      "name": "the Faroe Islands",
+      "id": "Q4628"
+    },
+    "cabinet": {
+      "id": "Q70207330",
+      "start": "2019-09-16",
+      "parent": "Q903985"
+    },
+    "source": {
+        "url":   "https://www.foroyalandsstyri.fo/fo/landsstyrid/landsstyrisfolk/",
+        "title": "Landsstýrisfólk - Føroya Landsstýri",
+        "lang":  {
+            "code": "fo",
+            "wikidata": "Q25258"
+        },
+        "curlflags": "-A EPS/fo"
+    },
+    "agent": "every-politican-scrapers/faroes-ministers"
+}
