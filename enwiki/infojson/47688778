@@ -1,0 +1,42 @@
+[
+  {
+    "office": {
+      "links": [
+        "Løgting"
+      ],
+      "stated_as": "Member of the Løgting"
+    },
+    "P580": "1994"
+  },
+  {
+    "office": {
+      "links": [
+        "Centre Party (Faroe Islands)"
+      ],
+      "stated_as": "Leader of Centre Party"
+    },
+    "P580": "2001",
+    "P1365": {
+      "links": [
+        "Álvur Kirke"
+      ],
+      "stated_as": "Álvur Kirke"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Foreign Affairs and Culture"
+    },
+    "P580": "2019-09-16",
+    "P1365": {
+      "links": [
+        "Poul Michelsen",
+        "Høgni Hoydal"
+      ],
+      "stated_as": "Poul Michelsen (Foreign Affairs) / Høgni Hoydal (Culture)"
+    }
+  }
+]

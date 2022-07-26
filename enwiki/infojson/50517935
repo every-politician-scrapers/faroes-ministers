@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Tórshavn"
+      ],
+      "stated_as": "Mayor of Tórshavn"
+    },
+    "P580": "2005-01-01",
+    "P1365": {
+      "links": [
+        "Jan Christiansen"
+      ],
+      "stated_as": "Jan Christiansen"
+    },
+    "P582": "2016-12-31",
+    "P1366": {
+      "links": [
+        "Annika Olsen"
+      ],
+      "stated_as": "Annika Olsen"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Tórshavn"
+      ],
+      "stated_as": "Mayor of Tórshavn"
+    },
+    "P580": "2021-01-01",
+    "P1365": {
+      "links": [
+        "Annika Olsen"
+      ],
+      "stated_as": "Annika Olsen"
+    }
+  }
+]
