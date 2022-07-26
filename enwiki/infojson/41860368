@@ -1,0 +1,70 @@
+[
+  {
+    "office": {
+      "links": [
+        "Løgting"
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P580": "1998"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Culture"
+    },
+    "P580": "2004-02-03",
+    "P1365": {
+      "links": [
+        "Annita á Fríðriksmørk"
+      ],
+      "stated_as": "Annita á Fríðriksmørk"
+    },
+    "P582": "2008-02-04",
+    "P1366": {
+      "links": [
+        "Kristina Háfoss"
+      ],
+      "stated_as": "Kristina Háfoss"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of Speakers of the Løgting of the Faroe Islands"
+      ],
+      "stated_as": "Speaker of the Parliament"
+    },
+    "P580": "2011",
+    "P1365": {
+      "links": [
+        "Hergeir Nielsen"
+      ],
+      "stated_as": "Hergeir Nielsen"
+    },
+    "P582": "2015",
+    "P1366": {
+      "links": [
+        "Páll á Reynatúgvu"
+      ],
+      "stated_as": "Páll á Reynatúgvu"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of Speakers of the Løgting of the Faroe Islands"
+      ],
+      "stated_as": "Speaker of the Parliament"
+    },
+    "P580": "2019",
+    "P1365": {
+      "links": [
+        "Páll á Reynatúgvu"
+      ],
+      "stated_as": "Páll á Reynatúgvu"
+    }
+  }
+]

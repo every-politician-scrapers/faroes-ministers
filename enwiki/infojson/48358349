@@ -1,0 +1,54 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of Finance Ministers of the Faroe Islands"
+      ],
+      "stated_as": "Minister of Finance"
+    },
+    "P580": "2004-02-03",
+    "P1365": {
+      "links": [
+        "Karsten Hansen"
+      ],
+      "stated_as": "Karsten Hansen"
+    },
+    "P582": "2007-05-09",
+    "P1366": {
+      "links": [
+        "Magni Laksáfoss"
+      ],
+      "stated_as": "Magni Laksáfoss"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Union Party (Faroe Islands)"
+      ],
+      "stated_as": "Leader of the Union Party"
+    },
+    "P580": "2015-10-24",
+    "P1365": {
+      "links": [
+        "Kaj Leo Johannesen"
+      ],
+      "stated_as": "Kaj Leo Johannesen"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of Prime Ministers of the Faroe Islands"
+      ],
+      "stated_as": "Prime Minister of the Faroe Islands"
+    },
+    "P580": "2019-09-16",
+    "P1365": {
+      "links": [
+        "Aksel V. Johannesen"
+      ],
+      "stated_as": "Aksel V. Johannesen"
+    }
+  }
+]
